@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi , I'm Esmeralda Molina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Developer%20Enthusiast%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=You+can+tell+me+Melle;Software+Engineering+Student;Web+Developer%20Enthusiast%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am a Software Engineering student in the 7th semester at ITSON, just one semester away from graduating. I am passionate about Web Development and enjoy creating functional and visually attractive digital experiences. I love exploring new technologies, learning through real projects, and collaborating with others to creatively solve problems. I consider myself a calm, kind and motivated person, always open to new challenges. My goal is to become a professional web developer and use technology to create innovative and sustainable solutions.</h4>
