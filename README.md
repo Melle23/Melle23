@@ -125,28 +125,6 @@ Design and development of interfaces, dashboards and digital solutions focused o
 UX/UI project focused on requirement analysis, interface design, visual identity and user experience optimization.
 </p>
 
-<h3>🍔 El Comedor 2</h3>
-<p>
-Design and optimization of digital experiences for food ordering and delivery services.
-</p>
-
-<h3>🧵 Guardian Textil Consciente</h3>
-<p>
-Mobile application focused on sustainable textile consumption and environmental awareness.
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melle23&show_icons=true&theme=transparent"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melle23&layout=compact&theme=transparent"/>
-</p>
-
 ---
 
 ## 📫 Connect With Me
