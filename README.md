@@ -1,133 +1,139 @@
-## Hi there 👋🏻
+<h1 align="center">Hi, I'm Esmeralda Molina 👋</h1>
 
+<h3 align="center">
+Software Engineer | UX/UI Designer
+</h3>
 
-<h1 align="center">Hi , I'm Esmeralda Molina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=You+can+tell+me+Melle;Software+Engineering+Student;Web+Developer%20Enthusiast%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+Passionate about creating modern digital experiences through software development and user-centered design.
 </p>
+
 <hr/>
-<h4 align="center">I am a Software Engineering student in the 7th semester at ITSON, just one semester away from graduating. I am passionate about Web Development and enjoy creating functional and visually attractive digital experiences. I love exploring new technologies, learning through real projects, and collaborating with others to creatively solve problems. I consider myself a calm, kind and motivated person, always open to new challenges. My goal is to become a professional web developer and use technology to create innovative and sustainable solutions.</h4>
-<br>
 
-## 🛠️ My Skills
+## 👩🏻‍💻 About Me
 
-### 🦖 Programming languages
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://swift.org" target="_blank">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-%23FA7343.svg?logo=swift&logoColor=white" />
-  </a>
+<p align="center">
+I am a Software Engineering student at ITSON, passionate about Web Development and UX/UI Design.
+I enjoy creating functional, intuitive, and visually attractive digital products.
+I like working on real projects, learning new technologies, and building solutions that combine design, usability, and code.
 </p>
 
-### 🦖 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-</p>
+---
 
-### 🦖 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
- </p>
-  
-### 🦖 Graphic Designing
-<p align="left">
-  &emsp;
-  	  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
-     &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
+## 🚀 Tech Stack
 
- ### 🦖 Software & Tools
- 
+### 💻 Programming Languages
+
 <p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-
-  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-%23121011.svg?logo=xcode&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white"/>
 </p>
 
-<br/>
+### 🎨 Frontend Development
 
-## 📊 Github Stats 
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"/>
+</p>
 
+### 🧩 Backend & Databases
 
-<details> 
-  <summary><b>💻 GitHub Profile</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Melle23"><img alt="https://github.com/account"/></a>
-<br/>
-  </p>
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
+</p>
 
-## 👩🏻‍💻 Let's Connect
+### 🎨 UX/UI & Design
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-470137?logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maze-000000?logo=maze&logoColor=white"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white"/>
+</p>
+
+---
+
+## 🎨 UX/UI Skills
+
+<p>
+✔ Wireframing <br/>
+✔ Prototyping <br/>
+✔ Responsive Design <br/>
+✔ Design Systems <br/>
+✔ User Interface Design <br/>
+✔ Usability Testing <br/>
+✔ Information Architecture <br/>
+✔ User-Centered Design
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🛒 E-commerce Design System
+Design and implementation of a scalable design system to standardize interfaces and improve consistency across an e-commerce platform.
+
+### 👕 Guardian Textil Consciente
+Mobile application focused on sustainable textile consumption and environmental awareness.
+
+### 📦 Inventory Management System
+Web platform for inventory control, reports, warehouse operations, and product management.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-	<a href="mailto:molinaestradaesmeralda@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Melle23"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="www.linkedin.com/in/esmeralda-molina-estrada-561605298"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	
+  <img src="https://github-readme-stats.vercel.app/api?username=Melle23&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melle23&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:molinaestradaesmeralda@gmail.com">
+    <img src="https://img.icons8.com/bubbles/60/000000/gmail.png" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Melle23">
+    <img src="https://img.icons8.com/bubbles/60/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/esmeralda-molina-estrada-561605298">
+    <img src="https://img.icons8.com/bubbles/60/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
 </p>
 
 <hr/>
 
-
-
-
-
-
-
-
-
+<p align="center">
+✨ Always learning, designing, and building better digital experiences ✨
+</p>
 
